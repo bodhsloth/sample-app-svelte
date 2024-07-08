@@ -173,6 +173,26 @@
   <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
   </script>
+<script type='text/javascript'>
+   $(document).ready(function() {
+   
+</script>
+<div id='fixedbanner' style='position: fixed;left: 0;bottom: 0;width:100%;text-align: center;transition: all .1s ease-in;z-index:999;-webkit-transform:translateZ(0);'>
+<div class='stky-ads' style='width: 100%;padding: 5px 0;box-shadow: 0 -6px 18px 0 rgba(9, 32, 76, .1);display: flex;align-items: center;justify-content: center;background-color: #fefefe;max-height: 100px;'>      
+
+<!-- Your Adsense Code Starts Here-->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+         style="display:inline-block;width:728px;height:90px"
+         data-full-width-responsive="true"
+         data-ad-client="ca-pub-5246141430412355"
+         data-ad-slot="7251279727"></ins>
+<script>
+         (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!-- Your Adsense Code Ends Here-->   
+</div>
+</div>
 </main>
 
 <style>
